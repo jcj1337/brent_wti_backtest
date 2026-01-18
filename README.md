@@ -1,7 +1,7 @@
 # Brent and WTI Signal Backtest + Tableau Dashboard
 
 - Built/tested a backtest model with a couple trading signals on commodities (Brent + WTI crude oil) through Python. Visualizations on a Tableau dashboard
-- See [Notebook](brent_time_series_backtest.ipynb) for code/documentation
+- See [Notebook](commodities_backtest.ipynb) for code/documentation
 - See [Dashboard](https://public.tableau.com/app/profile/jet.c7615/viz/Backtest_Tableau_Done/InsightsDashboard#1) for visualizations
 
 ## Data:
